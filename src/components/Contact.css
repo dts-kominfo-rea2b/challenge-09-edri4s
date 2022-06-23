@@ -1,0 +1,13 @@
+img{
+    float: left;
+    margin: 0 10px 0 -25px;
+    height: 110px;
+    width: 110px;
+    border-radius: 50%;
+}
+
+.article{
+    text-align: center;
+    padding-left: 5%;
+    text-align: center;
+}
